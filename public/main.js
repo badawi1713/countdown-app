@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", () => {
   // Unix timestamp (in seconds) to count down to
   var twoDaysFromNow =
-    new Date("Aug 27, 2020 23:59:59").getTime() / 1000 + 86400;
+    new Date("Sep 04, 2020 23:59:59").getTime() / 1000 + 86400;
 
   // Set up FlipDown
   // eslint-disable-next-line no-undef
