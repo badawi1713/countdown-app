@@ -61,7 +61,7 @@ class App extends React.Component {
           <div id="flipdown" className="flipdown " />
         </div>
 
-        <SeasonDisplay month={8} latitude={1} />
+        <SeasonDisplay />
       </div>
     );
   }

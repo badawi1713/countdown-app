@@ -80,7 +80,7 @@
 
 .flipdown {
     overflow: visible;
-    width: 510px;
+    width: auto;
     height: 110px;
 }
 
@@ -223,7 +223,7 @@
 @media (max-width: 550px) {
 
     .flipdown {
-        width: 312px;
+        width: auto;
         height: 70px;
     }
 
